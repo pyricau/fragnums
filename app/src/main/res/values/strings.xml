@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">Fragnums</string>
+  <string name="tshirt">Wear your love of <b>JSR-201</b> proudly with this <i>#enumsmatter</i> shirt.\n\nA topic that
+    will likely confuse your grandma and raise the blood pressure of Android Developer Advocates
+    everywhere.
+  </string>
+  <string name="tshirt_button">I want one!</string>
+  <string name="tshirt_title">Bronum</string>
+  <string name="enumsmatter_title">#enumsmatter</string>
+  <string name="bronum">Be a bronum</string>
+  <string name="yunoenums">Y U NO LIKE ENUMS?!</string>
+  <string name="fragnum_description"><b>Fragnums</b> is an enum based library to <b>replace fragments</b>.\n\n
+    Take your enums to the next level and <b>write enums that matter</b>! MVP is dead, long live MVE: <b>Model, View, Enum</b>.</string>
+  <string name="enumsmatter_description">A long time ago in a galaxy far, far away…\n\n\nDevelopers of the <b>Android
+    Framework</b> refrained from using enums, because of their impact on the runtime and the SDK size.
+    When you write code <b>shared by thousands of apps</b> and running all day long on millions of devices in an event loop,
+    you better squeeze all the performance bits you can.\n\n
+    For mysterious reasons, a few jokesters started advocating that app developers follow the same logic.
+    We got 99 perf problems but <b>enums ain\'t one</b>. As a reaction, the community created the
+    <i>#enumsmatter</i> hashtag to remind ourselves that it\'s OK to write sane code.
+  </string>
+</resources>
