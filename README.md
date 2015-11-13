@@ -36,7 +36,7 @@ Then you can just do `goTo(MY_SCREEN)`.
 
 ## Getting started
 
-* Copy the [three classes]() from the example.
+* Copy the [three classes](https://github.com/pyricau/fragnums/tree/master/app/src/main/java/com/example/fragnums) from the example.
 * **You're good to go!** You can now focus on writing new screens and features, just by adding new enum values.
 
 ## Why should I use Fragnums?
@@ -47,7 +47,7 @@ Then you can just do `goTo(MY_SCREEN)`.
 
 ## How does it work?
 
-* Nothing crazy, just [read the source]()!
+* Nothing crazy, just [read the source](https://github.com/pyricau/fragnums/tree/master/app/src/main/java/com/example/fragnums)!
 
 ## Is this serious?
 
