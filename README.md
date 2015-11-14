@@ -12,7 +12,7 @@ Fragnums is the smallest, simplest and most performant Android backstack library
 
 * No reflection, unlike Fragments which are recreated through reflection.
 * Each enum value is both a screen and a presenter. This means only one instance of each value is created, ever. No useless garbage collection!
-* Synchronous transitions coz nobody ain't time for Async Fragment Transactions.
+* Synchronous transitions coz ain't nobody got time for Async Fragment Transactions.
 * Handles configuration changes, for all the landscape nut lovers out there.
 
 ## Show me the code
