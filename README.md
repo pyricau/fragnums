@@ -57,6 +57,7 @@ I applied a few good core principles to create a satire library. Read the code, 
 
 * The suggestion that we should stop using enums because *#perfmatters* is a fallacy. An enum is essentially a class. Every new class makes our binary a bit bigger and our runtime a bit slower. Should we stop using classes? Or should we instead focus on the perf problems that actually matter?
 * This library shows how to implement a very basic backstack. You don't need enums for that, you could have a `Screen` class instead. However, it's cool to know that one could make an enum centric app.
+* If you're into trolling at conferences, you can get the *#enumsmatter* T-Shirt [here](https://teespring.com/enumsmatter). I am not affiliated with this T-Shirt campaign.
 
 ![screenshot1.png](assets/screenshot1.png)
 
