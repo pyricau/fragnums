@@ -1,3 +1,5 @@
+🔴 I'm archiving this repository, [Fragments are now in maintenance mode](https://developer.android.com/develop/ui/compose/first). *“Tout vient à point à qui sait attendre”* - French Developer proverb
+
 # Fragnums
 
 An enum based library to replace fragments, because *#perfmatters*.
